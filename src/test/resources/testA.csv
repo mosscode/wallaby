@@ -1,0 +1,5 @@
+Type,Invoice #,Date,P.O. #,Terms,Due Date,Currency,Exchange Rate,Total Due,Balance Due,Paid?,Memo,Contact Name,Entry ID,Description,Quantity,Rate,Total,Account #,Account Name,Item Name,Taxes,Payment Date,Payment Account Number,Payment Account Name,Payment Amount,Exchanged?,Payment Exchange Rate,Payment Memo,Tax Name,Tax Amount,Account #,Account Name
+Invoice,00100,"February 17, 2010",,paid,"February 17, 2010",USD,,10404.00,0.00,Y,,,13269169,PORTER a,1.0,10404.00,10404.00,2006,Shareholder Loans,,,,,,,,,,,,1090,Undeposited Funds
+Invoice,FB00158,"February 5, 2010",,,"February 5, 2010",USD,,34.84,34.84,N,,,13190291,"lateFEE: Late Fee on INVOICE #00069
+INVOICE Date: September 30, 2009
+Amount Due: $686.98 USD",0.015,686.98,10.30,4080,Fees Invoiced,,,,,,,,,,,,1100,Accounts Receivable
